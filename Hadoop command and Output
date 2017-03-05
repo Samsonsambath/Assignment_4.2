@@ -1,0 +1,25 @@
+1.Hadoop Command:
+----------------------
+hadoop jar /home/acadgild/assignment4/Task02.jar mapreduce.assignment.task2.TotalUnitsSoldByEachCompany /user/acadgild/hadoop/television.txt /user/acadgild/hadoop/TotalUnitsByEachCompanyOut3
+
+1.Output:
+-----------------
+Akai	1
+Lava	3
+Onida	4
+Samsung	7
+Zen	2
+
+
+
+2.Hadoop Command:
+----------------------
+hadoop jar /home/acadgild/assignment4/Task02.jar mapreduce.assignment.task3.OnidaSalesIneachState /user/acadgild/hadoop/television.txt /user/acadgild/hadoop/OnidaSalesInEachStateOut
+
+2.Output:
+-----------------
+Assam	0
+Kerala	1
+Madhya Pradesh	0
+Maharashtra	0
+Uttar Pradesh	3
